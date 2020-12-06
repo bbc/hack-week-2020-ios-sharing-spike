@@ -13,6 +13,7 @@
 		74CBEA4B257BA36100720881 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74CBEA49257BA36100720881 /* Main.storyboard */; };
 		74CBEA4D257BA36200720881 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74CBEA4C257BA36200720881 /* Assets.xcassets */; };
 		74CBEA50257BA36200720881 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74CBEA4E257BA36200720881 /* LaunchScreen.storyboard */; };
+		74D907FE257D113D003DF3A1 /* promoImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 74D907FD257D113D003DF3A1 /* promoImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		74CBEA4C257BA36200720881 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74CBEA4F257BA36200720881 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74CBEA51257BA36200720881 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74D907FD257D113D003DF3A1 /* promoImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = promoImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				74CBEA4C257BA36200720881 /* Assets.xcassets */,
 				74CBEA4E257BA36200720881 /* LaunchScreen.storyboard */,
 				74CBEA51257BA36200720881 /* Info.plist */,
+				74D907FD257D113D003DF3A1 /* promoImage.png */,
 			);
 			path = SharingSpike;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74CBEA50257BA36200720881 /* LaunchScreen.storyboard in Resources */,
+				74D907FE257D113D003DF3A1 /* promoImage.png in Resources */,
 				74CBEA4D257BA36200720881 /* Assets.xcassets in Resources */,
 				74CBEA4B257BA36100720881 /* Main.storyboard in Resources */,
 			);
